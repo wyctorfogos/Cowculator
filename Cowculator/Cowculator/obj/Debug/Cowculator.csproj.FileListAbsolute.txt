@@ -1,0 +1,10 @@
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\bin\Debug\Cowculator.exe.config
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\bin\Debug\Cowculator.exe
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\bin\Debug\Cowculator.pdb
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.csprojAssemblyReference.cache
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.Form1.resources
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.Properties.Resources.resources
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.csproj.GenerateResource.cache
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.csproj.CoreCompileInputs.cache
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.exe
+C:\Users\Wyctor\Desktop\Projetos_MVS\Cow-calculator_2\Cowculator\Cowculator\obj\Debug\Cowculator.pdb
